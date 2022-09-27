@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Test Suite renderring correctly 1`] = `
+exports[`Test Suite rendering app correctly 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
